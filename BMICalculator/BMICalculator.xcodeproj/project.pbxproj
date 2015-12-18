@@ -76,11 +76,11 @@
 				260822771BEFA1ED006D9BAF /* AppDelegate.swift */,
 				260822791BEFA1ED006D9BAF /* ViewController.swift */,
 				26010B841BF093BF0008A3D9 /* BMIResultViewController.swift */,
+				265A30331BFA806000A91B6B /* WaistRatioViewController.swift */,
 				2608227B1BEFA1ED006D9BAF /* Main.storyboard */,
 				2608227E1BEFA1ED006D9BAF /* Assets.xcassets */,
 				260822801BEFA1ED006D9BAF /* LaunchScreen.storyboard */,
 				260822831BEFA1ED006D9BAF /* Info.plist */,
-				265A30331BFA806000A91B6B /* WaistRatioViewController.swift */,
 			);
 			path = BMICalculator;
 			sourceTree = "<group>";
